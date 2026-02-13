@@ -1,5 +1,20 @@
+# Core
 numpy
-pandas
+scipy
 torch
-streamlit
+torchvision
+
+# Medical Imaging
 SimpleITK
+monai
+
+# 3D Visualization
+plotly
+scikit-image
+
+# Web App
+streamlit
+
+# Utilities
+pillow
+pathlib
